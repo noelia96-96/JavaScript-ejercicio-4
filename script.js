@@ -1,5 +1,7 @@
 // En este ejercicio tenéis que sustituir TODAS las funciones tradicionales por funciones flecha y que siga funcionando igual.
 
+//sustituir los function por funciones flecha que menos caracteres requiera
+
 const changeBackgroundButton = document.getElementById(
   "changeBackgroundButton"
 );
